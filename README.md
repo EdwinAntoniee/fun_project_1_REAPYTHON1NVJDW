@@ -1,10 +1,18 @@
-Untuk Link google drive dapat diakses melalui link berikut : https://drive.google.com/drive/folders/1dLzLx37_WC-QNFLvmJFkwRUgpUvn9rbS?usp=sharing
-Dan untuk link deploy ada di link berikut: https://funproject1reapython1nvjdw-zqnjufc5v73rxnqkapjkfw.streamlit.app/
-Untuk memulai, pengguna diminta untuk memasukkan nama pada kolom yang tersedia, lalu klik tombol "Mulai Quiz". 
-Setelah itu, pengguna akan diberikan tiga pertanyaan seputar kegiatan favorit, perangkat yang paling sering digunakan, dan motto hidup yang paling sesuai dengan kepribadian mereka. 
-Jawaban dari pertanyaan-pertanyaan ini akan digunakan untuk menentukan kecocokan terhadap tiga bidang utama, yaitu Programmer, Designer, atau Data Scientist. 
-Setelah menjawab semua pertanyaan dan menekan tombol "Kirim", hasil quiz akan ditampilkan. 
-Selanjutnya, pengguna juga akan diberikan satu pertanyaan lanjutan yang lebih spesifik sesuai dengan hasil utama
-untuk menentukan jenis profesi yang lebih tepat seperti Front-End Engineer, Graphic Designer, atau Data Analyst. 
-Apabila hasil dari tiga pertanyaan kegiatan favorit awal menhasilkan hasil yang seimbang ( masing - masing 1),
-akan memunculkan notifikasi bahwa pengguna terbuka untuk semua opsi dan dapat mengeksplor lebih lanjut
+Link Google Drive (Dokumentasi dan Sumber Aset):
+📁 https://drive.google.com/drive/folders/1dLzLx37_WC-QNFLvmJFkwRUgpUvn9rbS
+
+Link Deploy (Aplikasi Streamlit):
+🚀 https://funproject1reapython1nvjdw-zqnjufc5v73rxnqkapjkfw.streamlit.app/
+
+📌 Deskripsi Singkat
+Aplikasi ini adalah kuis interaktif berbasis streamlit yang membantu pengguna untuk mencari tahu MBTI pengguna.
+
+Alur Penggunaan:
+
+Mulai Kuis Klik tombol "Mulai Quiz" untuk memulai sesi MBTI.
+
+Jawab 4 Sesi Pertanyaan Pengguna akan melalui 4 sesi pertanyaan, masing-masing berisi 5 pertanyaan dengan 2 pilihan jawaban yang mencerminkan dimensi MBTI:
+
+I/E (Introversion/Extraversion), N/S (Intuition/Sensing), T/F (Thinking/Feeling), J/P (Judging/Perceiving)
+
+Lihat Hasil Setelah menjawab semua pertanyaan, pengguna akan diberikan hasil tipe MBTI mereka berdasarkan pilihan yang dipilih di setiap sesi. Hasil ini akan mencocokkan dengan salah satu tipe MBTI (misalnya: INTJ, ESFP, dll.).
