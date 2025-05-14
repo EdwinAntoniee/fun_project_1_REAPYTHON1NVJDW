@@ -1,4 +1,5 @@
 Untuk Link google drive dapat diakses melalui link berikut : https://drive.google.com/drive/folders/1dLzLx37_WC-QNFLvmJFkwRUgpUvn9rbS?usp=sharing
+Dan untuk link deploy ada di link berikut: https://funproject1reapython1nvjdw-zqnjufc5v73rxnqkapjkfw.streamlit.app/
 Untuk memulai, pengguna diminta untuk memasukkan nama pada kolom yang tersedia, lalu klik tombol "Mulai Quiz". 
 Setelah itu, pengguna akan diberikan tiga pertanyaan seputar kegiatan favorit, perangkat yang paling sering digunakan, dan motto hidup yang paling sesuai dengan kepribadian mereka. 
 Jawaban dari pertanyaan-pertanyaan ini akan digunakan untuk menentukan kecocokan terhadap tiga bidang utama, yaitu Programmer, Designer, atau Data Scientist. 
